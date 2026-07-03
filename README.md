@@ -2,6 +2,14 @@
 
 A full-stack web application designed to facilitate the creation of a monolingual corpus for Vietnamese historical texts (Chữ Quốc Ngữ). This tool provides an integrated pipeline for digitizing PDF documents, correcting OCR errors, splitting sentences, and assigning Named Entity Recognition (NER) tags.
 
+## 🎬 Video Demo
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/19gx4XXoWMYGLebyq10xbXM-xHs-rpLHM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</div>
+
 ## 🚀 Technical Solution
 
 This project leverages modern web frameworks and local Large Language Models (LLMs) to process historical texts securely and efficiently.
