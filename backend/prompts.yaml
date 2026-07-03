@@ -1,0 +1,29 @@
+ner_prompt: |
+  Bạn là chuyên gia ngôn ngữ học Lịch sử Việt Nam. Trích xuất thực thể từ "Câu Đầu Vào" theo 6 nhãn: PER, LOC, ORG, TITLE, TME, NUM.
+  Chỉ trả về JSON, KHÔNG giải thích. Bắt buộc phải có key "entities" bọc ngoài mảng.
+  Schema: {{"entities": [{{"text": "thực thể", "label": "NHÃN"}}]}}
+
+  Ví dụ 1:
+  Câu Đầu Vào: "Ngày 23, làm lễ mở đọc chiếu thư của nhà Minh ở điện Kính Thiên."
+  JSON Output:
+  {{
+    "entities": [
+      {{"text": "Ngày 23", "label": "TME"}},
+      {{"text": "nhà Minh", "label": "ORG"}},
+      {{"text": "điện Kính Thiên", "label": "LOC"}}
+    ]
+  }}
+
+  Ví dụ 2:
+  Câu Đầu Vào: "Vua Lê Thái Tổ sai Lê Sát đánh giặc."
+  JSON Output:
+  {{
+    "entities": [
+      {{"text": "Vua", "label": "TITLE"}},
+      {{"text": "Lê Thái Tổ", "label": "PER"}},
+      {{"text": "Lê Sát", "label": "PER"}}
+    ]
+  }}
+
+  Câu Đầu Vào: "{s_text}"
+  JSON Output:

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pdf2image
+Pillow
+pydantic
+python-multipart
+requests
+underthesea
+torch
+transformers
+PyYAML
+PyMuPDF

@@ -1,0 +1,154 @@
+[
+  {
+    "text": "Lê Lợi",
+    "label": "PER"
+  },
+  {
+    "text": "Thăng Long",
+    "label": "LOC"
+  },
+  {
+    "text": "Viện Sử học",
+    "label": "ORG"
+  },
+  {
+    "text": "Phòng Nghiên cứu Đông Nam Á",
+    "label": "ORG"
+  },
+  {
+    "text": "tháng 10 năm 1965",
+    "label": "TME"
+  },
+  {
+    "text": "Trần Kinh Hòa",
+    "label": "PER"
+  },
+  {
+    "text": "Việt Nam",
+    "label": "LOC"
+  },
+  {
+    "text": "Phòng Nghiên cứu",
+    "label": "ORG"
+  },
+  {
+    "text": "101",
+    "label": "NUM"
+  },
+  {
+    "text": "Tống Hậu",
+    "label": "PER"
+  },
+  {
+    "text": "Gia Long",
+    "label": "PER"
+  },
+  {
+    "text": "bốn",
+    "label": "NUM"
+  },
+  {
+    "text": "hai",
+    "label": "NUM"
+  },
+  {
+    "text": "Bộ Quốc sử đi biên",
+    "label": "ORG"
+  },
+  {
+    "text": "Tổ Biên dịch Viện Sử học",
+    "label": "ORG"
+  },
+  {
+    "text": "112",
+    "label": "NUM"
+  },
+  {
+    "text": "166",
+    "label": "NUM"
+  },
+  {
+    "text": "183",
+    "label": "NUM"
+  },
+  {
+    "text": "279",
+    "label": "NUM"
+  },
+  {
+    "text": "Cửu An hà",
+    "label": "LOC"
+  },
+  {
+    "text": "Nghệ An hà",
+    "label": "LOC"
+  },
+  {
+    "text": "303",
+    "label": "NUM"
+  },
+  {
+    "text": "Ân Quang hầu",
+    "label": "TITLE"
+  },
+  {
+    "text": "Trần Công Hiến",
+    "label": "PER"
+  },
+  {
+    "text": "cuối năm Tân Mùi (1811)",
+    "label": "TME"
+  },
+  {
+    "text": "371",
+    "label": "NUM"
+  },
+  {
+    "text": "379",
+    "label": "NUM"
+  },
+  {
+    "text": "391",
+    "label": "NUM"
+  },
+  {
+    "text": "233",
+    "label": "NUM"
+  },
+  {
+    "text": "Nguyễn",
+    "label": "ORG"
+  },
+  {
+    "text": "Nông Văn Vân",
+    "label": "PER"
+  },
+  {
+    "text": "Vân Trung",
+    "label": "LOC"
+  },
+  {
+    "text": "Lê Văn Khôi",
+    "label": "PER"
+  },
+  {
+    "text": "Gia Định",
+    "label": "LOC"
+  },
+  {
+    "text": "398",
+    "label": "NUM"
+  },
+  {
+    "text": "Bạch Xuân Nguyên",
+    "label": "PER"
+  },
+  {
+    "text": "Quốc sử di biên",
+    "label": "ORG"
+  },
+  {
+    "text": "Phan Thúc Trực",
+    "label": "PER"
+  }
+]
